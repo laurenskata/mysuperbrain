@@ -1,0 +1,8 @@
+{
+	"Return 'example'":{
+		"scope": "markdown",
+		"prefix": ["!example"],
+		"body": ["example"],
+		"description": "this is an example macro, also called snippet"
+	}
+}
