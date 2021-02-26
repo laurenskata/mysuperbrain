@@ -1,4 +1,11 @@
-# Cheat sheet for notetaking in MD
+---
+title: Cheat sheet for notetaking in Markdown
+type: Note
+keywords: cheat sheet notetaking markdown beginner
+tags: #markdown #formatting
+---
+
+# Cheat sheet for notetaking in Markdown
 This is a cheat sheet intended for quickly looking up cool ways to format my notes and other media.
 ## Before the Note
 At the top of a file, metadata should be added to categorize, organize and create structure in the files. The following properties can and should be considered to add.
