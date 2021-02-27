@@ -27,11 +27,14 @@
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "window.autoDetectColorScheme": true,
   "spellright.language": [
-    "en"
+    "en-US"
   ],
   "spellright.documentTypes": [
     "markdown",
     "latex",
     "plaintext"
   ],
+  "markdown.styles": [
+    ".vscode/styles.css"
+  ]
 }

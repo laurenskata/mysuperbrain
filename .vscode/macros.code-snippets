@@ -4,5 +4,21 @@
 		"prefix": ["!example"],
 		"body": ["example"],
 		"description": "this is an example macro, also called snippet"
+	},
+	"Return 'template note-general'":{
+		"scope": "markdown",
+		"prefix": ["!note-general"],
+		"body": [
+			"---",
+			"title: Title of the file",
+			"type: Note",
+			"date: $CURRENT_DATE-$CURRENT_MONTH-$CURRENT_YEAR",
+			"keywords: hello world",
+			"tags: #tag1 #tag2",
+			"---",
+			"# Title",
+			"***",
+		],
+		"description": "Template for the creation of general notes"
 	}
 }
