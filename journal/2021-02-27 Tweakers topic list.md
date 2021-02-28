@@ -16,7 +16,7 @@ Deze notitie bevat directe links naar verschillende topics op [Tweakers.net](htt
 ## Lifestyle
 - [Het Scheer- en verzorgingstopic deel 3](https://gathering.tweakers.net/forum/list_messages/1632720)
 
-## Wonen
+## Wonen en Klussen
 - [Het grote zit/sta bureau's-topic](https://gathering.tweakers.net/forum/list_messages/2000474)
 - [[DIY] Het grote (elektrische) gereedschapstopic Deel 5 ](https://gathering.tweakers.net/forum/list_messages/2044004)
 - [[DIY] Het klussende Tweaker Q, A & showcase topic - Deel 6](https://gathering.tweakers.net/forum/list_messages/1991146)

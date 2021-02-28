@@ -1,0 +1,20 @@
+---
+title: Caching
+type: Book
+date: 28-02-2021
+keywords: caching algorithms data storing organizing
+tags: #caching #algorithm
+---
+# Caching
+[[Algorithms to live by]] by Christian, Griffiths (2016)
+***
+## Quotes and notes
+- Regarding caching and the least recently used (LRU) algorithm "Unless we have a good reason to think otherwise, it seems that our best guide to the future is a mirror image of the past. The nearest thing to clairvoyance is to assume that history repeats itself-backward." - p.90 
+- Parallels between computer science and our daily life mean we can consciously apply these theories. -p.95
+  - First decide what to keep and what to throw out, LRU is better than FIFO (first in, first out)
+  - Second is to exploit georgraphy, location of object. Make sure things are in whatever cache is closest to the place they are used.
+  - Final is having multiple sizes of caches at different locations. For example, the closet, a box in the attic, external storage.
+- The bigger the cache, the less efficient it gets. We can see this in humans. The older we get, the more knowledge we hold in our brains. It can therefore take longer to retrieve a certain piece of information. This is partly what explains the 'cognitive decline' that is observed in older people. As it takes longer to retrieve information and you feel that you have a 'brain fart', think of it as a 'cache miss' - p. 104
+- This can also be observed in language. Once you use a specific language less, like Dutch it is slowly removed from your cache. This means when required to use that language it takes longer to remember words, sayings. I noticed this when I was living in Ireland, barely speaking Dutch. When I went back to the Netherlands, speaking Dutch took a lot of effort and it was difficult to find the words I wanted to use. After using the language for some time, this became easier again. The language became cached.
+## Application
+ - One application is to sort your files in on your pc by 'last opened' instead of by name. -p. 98
